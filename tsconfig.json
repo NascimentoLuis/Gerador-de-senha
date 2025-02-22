@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ES5",  // ou "ES6", "ESNext", dependendo da compatibilidade que você deseja
+      "outDir": "./dist", // pasta para salvar os arquivos compilados
+      "rootDir": "./",  // pasta de origem dos arquivos TypeScript
+      "strict": true
+    },
+    "include": [
+      "*.ts"
+    ]
+  }
+  

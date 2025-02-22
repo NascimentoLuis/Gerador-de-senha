@@ -25,3 +25,12 @@ body {
 .options label {
     margin-bottom: 5px;
 }
+
+#generate {
+    margin-bottom: 10px;
+}
+
+#password {
+    display: block;
+    margin-top: 10px;
+}
